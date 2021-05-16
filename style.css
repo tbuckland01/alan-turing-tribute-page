@@ -1,0 +1,48 @@
+#main {
+    font-family: "FreeUniversalRegular", sans-serif;
+    margin: -10px;
+    background-color: hsl(0, 0% 8%)
+}
+#title {
+    text-align: center;
+    color: #FFF;
+    background-color: hsl(0, 0%, 8%);
+    padding: 10px 10px 20px 10px;
+    margin: 0px 0px 50px 0px;
+    box-shadow: 0px 0px 20px hsl(0, 0%, 8%);
+    text-shadow: 0px 0px 1px hsl(0, 0%, 90%);
+    font-family: "AssyrianRegular", "FreeUniversalRegular", sans-serif;
+    font-size: 2.5em;
+}
+#img-div {
+    text-align: center;
+}
+#image {
+    display: block;
+    max-width: 25em;
+    border-radius: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 10px;
+}
+#tribute-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#timeline-title {
+    font-size: 1.25em;
+    font-weight: bold;
+    text-align: center;
+}
+#timeline-list {
+    width: 400px;
+}
+#tribute-link-paragraph {
+    text-align: center;
+    font-weight: bold;
+    padding: 30px 10px;
+}
+
+  
+  
